@@ -25,7 +25,4 @@
     <a href='https://www.instagram.com/joseluu_02/'>
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' alt='instagram-account' width='50px'></img>
     </a>
-    <a href='https://twitter.com/joselu02_'>
-        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/584px-Twitter-logo.svg.png' alt='twitter-account'  width='50px'></img>
-    </a>
 </p>
