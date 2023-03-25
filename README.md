@@ -5,7 +5,7 @@
 ### Hi, I'm @josecamporivas. :wave:
 ## About me:
 * I'm from Spain
-* Currently studying __Software Engineer__ at Vigo's university
+* Currently studying **Software Engineer** at Vigo's university
 * In my free time, I learn about **web development**.
 
 ## Languages and Tools
