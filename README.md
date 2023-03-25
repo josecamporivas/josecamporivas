@@ -1,4 +1,4 @@
-<p align='center'>
+<p style="display:flex;justify-content:center;">
     <img src='https://icon-library.com/images/web-development-icon-png/web-development-icon-png-12.jpg' width='100px'></img>
 </p>
 
@@ -22,6 +22,9 @@
 
 ## Contacts
 <p style='display:flex;align-items:center;column-gap:6px;'>
+    <a href='https://www.linkedin.com/in/josecamporivas/'>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='instagram-account' width='50px'></img>
+    </a>
     <a href='https://www.instagram.com/joseluu_02/'>
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' alt='instagram-account' width='50px'></img>
     </a>
