@@ -25,7 +25,4 @@
     <a href='https://www.linkedin.com/in/josecamporivas/'>
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='instagram-account' width='50px'></img>
     </a>
-    <a href='https://www.instagram.com/joseluu_02/'>
-        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' alt='instagram-account' width='50px'></img>
-    </a>
 </p>
