@@ -88,14 +88,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecamporivas&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact
 
 * LinkedIn: https://linkedin.com/in/josecamporivas
